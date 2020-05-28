@@ -1,0 +1,38 @@
+2019-12-02 22:16:15
+Chan as a client attempted to connect. Sent packet with Syn Bit as 1, which is the second step of the threeway handshake.
+
+2019-12-02 22:16:17
+Received following line.
+What is it? What’s wrong?
+Acknowledgement sent along with below line.
+What.
+
+
+2019-12-02 22:16:19
+Received following line.
+ What’s going on?
+Acknowledgement sent along with below line.
+ Hear what?
+
+
+2019-12-02 22:16:21
+Received following line.
+ Who?
+Acknowledgement sent along with below line.
+ Where?
+
+
+2019-12-02 22:16:23
+Received following line.
+ Silas?
+Acknowledgement sent along with below line.
+ How long?
+
+
+2019-12-02 22:16:27
+Received following line.
+ He’s back?
+Acknowledgement sent along with below line.
+ My brother?
+
+

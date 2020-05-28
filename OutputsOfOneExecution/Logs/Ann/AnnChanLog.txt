@@ -1,0 +1,46 @@
+2019-12-02 22:16:18
+Connection setup with Chan started. This is the first step of the threeway handshake.
+
+2019-12-02 22:16:19
+Connection with Chan as the server is successful. This is the third step of the threeway handshake. First line, which is below was sent.
+ Hi! lambs! avoid yon fountain. Have ye not eyes to see Cometas, him who filched a pipe but two days back from me?
+
+
+2019-12-02 22:16:20
+Received following line.
+Ann!
+Acknowledgement sent along with below line.
+ 'Twas Lycon's gift, your highness. But pray, Cometas, say, What is that skin wherewith thou saidst that Lacon walked away? Why, thy lord's self had ne'er a skin whereon his limbs to lay.
+
+
+2019-12-02 22:16:21
+Received following line.
+Shhh!
+Acknowledgement sent along with below line.
+ Did Lacon, did Calaethis' son purloin a goatskin? No, By Pan that haunts the sea-beach! Lad, if I served thee so, Crazed may I drop from yon hill-top to Crathis' stream below!
+
+
+2019-12-02 22:16:22
+Received following line.
+He’s back.
+Acknowledgement sent along with below line.
+ Be Daphnis' woes my portion, should that my credence win! Still, if thou list to stake a kid--that surely were no sin-- Come on, I'll sing it out with thee--until thou givest in.
+
+
+2019-12-02 22:16:23
+Received following line.
+Silas.
+Acknowledgement sent along with below line.
+ Fox! were that fair for either? At shearing who'd prefer Horsehair to wool? or when the goat stood handy, suffer her To nurse her firstling, and himself go milk a blatant cur?
+
+
+2019-12-02 22:16:25
+Received following line.
+Yes.
+Acknowledgement sent along with below line.
+ Why be so hot? Art thou on fire? First prythee take thy seat 'Neath this wild woodland olive thy tones will sound more sweet. Here falls a cold rill drop by drop, and green grass-blades uprear Their heads, and fallen leaves are thick, and locusts prattle here.
+
+
+2019-12-02 22:16:27
+Communication with Chan has been Terminated.
+

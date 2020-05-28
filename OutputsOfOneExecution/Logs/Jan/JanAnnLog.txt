@@ -1,0 +1,74 @@
+2019-12-02 22:16:11
+Connection setup with Ann started. This is the first step of the threeway handshake.
+
+2019-12-02 22:16:13
+Connection with Ann as the server is successful. This is the third step of the threeway handshake. First, which is below line was sent.
+Did you hear?
+
+
+2019-12-02 22:16:14
+Received following line.
+ Goats, from a shepherd who stands here, from Lacon, keep away Sibyrtas owns him; and he stole my goatskin yesterday.
+Acknowledgement sent along with below line.
+You didn’t?
+
+
+2019-12-02 22:16:15
+Received following line.
+ Sibyrtas' bondsman own a pipe? whence gotst thou that, and how? Tootling through straws with Corydon mayhap's beneath thee now?
+Acknowledgement sent along with below line.
+Outside.  They’re building barricades.
+
+
+2019-12-02 22:16:17
+Received following line.
+ The skin that Crocylus gave me, a dark one streaked with white, The day he slew his she-goat. Why, thou wert ill with spite, Then, my false friend; and thou would'st end by beggaring me quite.
+Acknowledgement sent along with below line.
+Here.  On our street.
+
+
+2019-12-02 22:16:19
+Received following line.
+ Nor pipe of thine, good fellow--the Ladies of the Lake So be still kind and good to me--did e'er Cometas take.
+Acknowledgement sent along with below line.
+An hour at least.
+
+
+2019-12-02 22:16:22
+Received following line.
+ 'The hog he braved Athene.' As for the kid, 'tis there You stake a lamb against him--that fat one--if you dare.
+Acknowledgement sent along with below line.
+He’s gone.  He knew you’d try to stop him, so he left as soon as it started.  I saw him go.
+
+
+2019-12-02 22:16:25
+Received following line.
+ The same who deemed his hornet's-buzz the true cicala's note, And braved--like you--his better. And so forsooth you vote My kid a trifle? Then come on, fellow! I stake the goat.
+Acknowledgement sent along with below line.
+What could you have done?
+
+
+2019-12-02 22:16:27
+Received following line.
+Communication with Chan has been CompromisedAcknowledgement sent along with below line.
+Location of target: (32� 43 22.77 N,97� 9 7.53 W)
+Request for a mission execution?
+
+
+2019-12-02 22:16:29
+Received following line.
+Success!Acknowledgement sent along with below line.
+The authorization code:
+Congratulations we have fried dry green leaves
+
+
+2019-12-02 22:16:30
+Received following line.
+Meeting Location: 32.76 N, -97.07 W
+Acknowledgement sent along with below line. This is the first step of the connection teardown.
+Request for a finish mission?
+
+
+2019-12-02 22:16:32
+Acknowledgement recieved, Communication with Ann is Finished.This is the third step for the communication teardown.
+

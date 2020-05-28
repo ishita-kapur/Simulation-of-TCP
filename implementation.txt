@@ -1,0 +1,98 @@
+  
+						Project_3 Implementation
+						Ishita Kapur, 1001753123
+						
+						  CSE 5344, Fall 2019
+
+Project Structure
+	1.	Conversations (folder containing conversation text file)
+	2.	Logs (folder storing the log messages of the most recent execution of the project)
+	3.	Python scripts (detailed implementation below)
+															
+						mission_tcp.py
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+1.  TCPServer Class - processes request synchronously
+2.  Create a separate process or thread to handle each request. ThreadingMixIn mix-in classes is used to support asynchronous behaviour.
+3.  Creating Server :
+		i.	request handler class created by subclassing the BaseRequestHandler class and overriding its handle() method. handle() processes incoming requests.
+		ii.	instantiate a server class, passing it the server’s address and the request handler class
+		iii.handle_request() (method of the server object) called to process one or many requests
+		iv.	inheriting from ThreadingMixIn for threaded connection behavior - declare how threads behave on explicit shutdown
+				- daemon_threads attribute - indicates whether or not the server should wait for thread termination
+				- set to True - handle_request thread exits when current thread exits
+4.	Implementing a Service :
+		i.	Derives a class from BaseRequestHandler and redefines the handle() method
+		ii.	RequestHandlerClass - The user-provided request handler class; an instance of this class is created for each request
+		iii.localhost - address on which server is started
+		iv. socket - socket object on which server is listening for requests
+5.	handle()
+	all the work required to service a request
+		- request is available as self.request
+		- server instance as self.server
+		- self.request is a socket object
+6.	TCPHandler
+	- Request Handler for the TCP Server
+	- Instantiated once per connection to the server, and overrides the handle() method to implement communication to the client
+7.	ThreadRouter
+	- Creates the server, binding to localhost on port number specified
+8.	Main Function
+	- Start a thread with the server - this thread will then start one more thread for each request
+	- A.start(),etc. - start the threads
+
+
+						functionalities.py
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+1.	Defined router names and port numbers and localhost IP address
+2.	Dijkstras() - Function implented for computing the shortest path between two nodes in a graph using Dijkstras algorithm
+3.	CreateTCPPacket() - Function implemented for TCP packet creation with all the required fields in the dictionary format, also calculates header length
+4.	SerializeAndSendPacket() - Function implemented for converting the Response Packet into a byte object using serialization (Pickle) and sent to the next note
+		dumps() - serialize
+		loads() - de-serialize
+5.	PassPacket() - Function implemented for forwarding the packet to the next node along the shortest path
+6.	Checksum and CarryAroundAdd() - Function implemented for computing the checksum of the data packet
+7.	ReadFile() - Function implemented for reading files and it returns the content of the file
+8.	WriteToLogFile() - Function implemented for writing data to a log file
+9.	GetKeyFromValue() - Function implemented for retreiving the key for a given value in the dictionary
+
+
+						jan.py
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+1.	Retrieving the Port Number Agent Jan listens to and the immediate router connected to Jan
+2.	Defining variable with the conversation file and log file path
+3.	Clearing old logs from previous executions
+4.	Reading content of the conversation files
+5.	Creating separate thread for Jan's Server. Starting Jan's server
+6.	Introducing a delay so that all agent servers are up and then communication begins
+7.	Set up connection with Ann(threeway handshaking)
+8.	TCPRequestHandler - all jobs that need to be performed by Agent Jan are implemented in the Handler
+
+
+						chan.py
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+1.	Retrieving the Port Number Agent Chan listens to and the immediate router connected to Chan
+2.	Defining variable with the conversation file and log file path
+3.	Clearing old logs from previous executions
+4.	Reading content of the conversation files
+5.	Creating separate thread for Chan's Server. Starting Chan's server
+6.	Introducing a delay so that all agent servers are up and then communication begins
+7.	Set up connection with Jan(threeway handshaking)
+8.	TCPRequestHandler - all jobs that need to be performed by Agent Chan are implemented in the Handler
+
+
+						ann.py
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+1.	Retrieving the Port Number Agent Ann listens to and the immediate router connected to Ann
+2.	Defining variable with the conversation file and log file path
+3.	Clearing old logs from previous executions
+4.	Reading content of the conversation files
+5.	Creating separate thread for Ann's Server. Starting Ann's server
+6.	Introducing a delay so that all agent servers are up and then communication begins
+7.	Set up connection with Chan(threeway handshaking)
+8.	TCPRequestHandler - all jobs that need to be performed by Agent Ann are implemented in the Handler
+
+--------------------------------------------------------------------------------------------------------------------------------------------

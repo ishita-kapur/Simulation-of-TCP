@@ -1,0 +1,517 @@
+
+G:\UTA_MS_1st_Sem\5344\Projects\missionTCP>python mission_tcp.py
+Shortest path from Ann to Jan is : ['Ann', 'A', 'B', 'L', 'F', 'Jan']
+Shortest path from Jan to Ann is : ['Jan', 'F', 'L', 'B', 'A', 'Ann']
+
+
+Shortest path from Jan to Chan is : ['Jan', 'F', 'D', 'G', 'E', 'Chan']
+Shortest path from Chan to Jan is : ['Chan', 'E', 'G', 'D', 'F', 'Jan']
+
+
+Shortest path from Ann to Chan is : ['Ann', 'A', 'E', 'Chan']
+Shortest path from Chan to Ann is : ['Chan', 'E', 'A', 'Ann']
+
+
+Router F :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29510, 'Acknowledgement Number': -1, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 1, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 20}
+
+Router L :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29510, 'Acknowledgement Number': -1, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 1, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 20}
+
+Router B :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29510, 'Acknowledgement Number': -1, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 1, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 20}
+
+Router A :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29510, 'Acknowledgement Number': -1, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 1, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 20}
+
+Router A :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90346, 'Acknowledgement Number': 29511, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 1, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router B :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90346, 'Acknowledgement Number': 29511, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 1, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router L :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90346, 'Acknowledgement Number': 29511, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 1, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90346, 'Acknowledgement Number': 29511, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 1, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29511, 'Acknowledgement Number': 90347, 'Data': 'Did you hear?\n', 'Checksum': 1120, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router L :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29511, 'Acknowledgement Number': 90347, 'Data': 'Did you hear?\n', 'Checksum': 1120, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router B :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29511, 'Acknowledgement Number': 90347, 'Data': 'Did you hear?\n', 'Checksum': 1120, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router A :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29511, 'Acknowledgement Number': 90347, 'Data': 'Did you hear?\n', 'Checksum': 1120, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router A :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90347, 'Acknowledgement Number': 29525, 'Data': ' Goats, from a shepherd who stands here, from Lacon, keep away Sibyrtas owns him; and he stole my goatskin yesterday.\n', 'Checksum': 43068, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router B :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90347, 'Acknowledgement Number': 29525, 'Data': ' Goats, from a shepherd who stands here, from Lacon, keep away Sibyrtas owns him; and he stole my goatskin yesterday.\n', 'Checksum': 43068, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router L :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90347, 'Acknowledgement Number': 29525, 'Data': ' Goats, from a shepherd who stands here, from Lacon, keep away Sibyrtas owns him; and he stole my goatskin yesterday.\n', 'Checksum': 43068, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90347, 'Acknowledgement Number': 29525, 'Data': ' Goats, from a shepherd who stands here, from Lacon, keep away Sibyrtas owns him; and he stole my goatskin yesterday.\n', 'Checksum': 43068, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29525, 'Acknowledgement Number': 90465, 'Data': 'You didnâ€™t?\n', 'Checksum': 19460, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router L :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29525, 'Acknowledgement Number': 90465, 'Data': 'You didnâ€™t?\n', 'Checksum': 19460, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router B :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29525, 'Acknowledgement Number': 90465, 'Data': 'You didnâ€™t?\n', 'Checksum': 19460, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router E :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20936, 'Acknowledgement Number': -1, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 1, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 20}
+
+Router A :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29525, 'Acknowledgement Number': 90465, 'Data': 'You didnâ€™t?\n', 'Checksum': 19460, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router A :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90465, 'Acknowledgement Number': 29539, 'Data': " Sibyrtas' bondsman own a pipe? whence gotst thou that, and how? Tootling through straws with Corydon mayhap's beneath thee now?\n", 'Checksum': 14816, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router G :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20936, 'Acknowledgement Number': -1, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 1, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 20}
+
+Router D :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20936, 'Acknowledgement Number': -1, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 1, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 20}
+
+Router B :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90465, 'Acknowledgement Number': 29539, 'Data': " Sibyrtas' bondsman own a pipe? whence gotst thou that, and how? Tootling through straws with Corydon mayhap's beneath thee now?\n", 'Checksum': 14816, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20936, 'Acknowledgement Number': -1, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 1, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 20}
+
+Router L :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90465, 'Acknowledgement Number': 29539, 'Data': " Sibyrtas' bondsman own a pipe? whence gotst thou that, and how? Tootling through straws with Corydon mayhap's beneath thee now?\n", 'Checksum': 14816, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90465, 'Acknowledgement Number': 29539, 'Data': " Sibyrtas' bondsman own a pipe? whence gotst thou that, and how? Tootling through straws with Corydon mayhap's beneath thee now?\n", 'Checksum': 14816, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32049, 'Acknowledgement Number': 20937, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 1, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router D :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32049, 'Acknowledgement Number': 20937, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 1, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29539, 'Acknowledgement Number': 90594, 'Data': 'Outside.  Theyâ€™re building barricades.\n', 'Checksum': 15409, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router G :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32049, 'Acknowledgement Number': 20937, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 1, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router L :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29539, 'Acknowledgement Number': 90594, 'Data': 'Outside.  Theyâ€™re building barricades.\n', 'Checksum': 15409, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router E :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32049, 'Acknowledgement Number': 20937, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 1, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+Router B :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29539, 'Acknowledgement Number': 90594, 'Data': 'Outside.  Theyâ€™re building barricades.\n', 'Checksum': 15409, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+
+Router E :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20937, 'Acknowledgement Number': 32050, 'Data': 'What is it? Whatâ€™s wrong?\n', 'Checksum': 36588, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+Router A :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29539, 'Acknowledgement Number': 90594, 'Data': 'Outside.  Theyâ€™re building barricades.\n', 'Checksum': 15409, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+
+Router G :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20937, 'Acknowledgement Number': 32050, 'Data': 'What is it? Whatâ€™s wrong?\n', 'Checksum': 36588, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router A :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90594, 'Acknowledgement Number': 29580, 'Data': " The skin that Crocylus gave me, a dark one streaked with white, The day he slew his she-goat. Why, thou wert ill with spite, Then, my false friend; and thou would'st end by beggaring me quite.\n", 'Checksum': 12245, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router D :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20937, 'Acknowledgement Number': 32050, 'Data': 'What is it? Whatâ€™s wrong?\n', 'Checksum': 36588, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router B :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90594, 'Acknowledgement Number': 29580, 'Data': " The skin that Crocylus gave me, a dark one streaked with white, The day he slew his she-goat. Why, thou wert ill with spite, Then, my false friend; and thou would'st end by beggaring me quite.\n", 'Checksum': 12245, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20937, 'Acknowledgement Number': 32050, 'Data': 'What is it? Whatâ€™s wrong?\n', 'Checksum': 36588, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router L :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90594, 'Acknowledgement Number': 29580, 'Data': " The skin that Crocylus gave me, a dark one streaked with white, The day he slew his she-goat. Why, thou wert ill with spite, Then, my false friend; and thou would'st end by beggaring me quite.\n", 'Checksum': 12245, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32050, 'Acknowledgement Number': 20965, 'Data': 'What.\n', 'Checksum': 6425, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router D :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32050, 'Acknowledgement Number': 20965, 'Data': 'What.\n', 'Checksum': 6425, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+Router F :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90594, 'Acknowledgement Number': 29580, 'Data': " The skin that Crocylus gave me, a dark one streaked with white, The day he slew his she-goat. Why, thou wert ill with spite, Then, my false friend; and thou would'st end by beggaring me quite.\n", 'Checksum': 12245, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+
+Router G :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32050, 'Acknowledgement Number': 20965, 'Data': 'What.\n', 'Checksum': 6425, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router A :
+{'Source ID': 1111, 'Destination ID': 1101, 'Sequence Number': 53583, 'Acknowledgement Number': -1, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 1, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 20}
+Router F :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29580, 'Acknowledgement Number': 90788, 'Data': 'Here.  On our street.\n', 'Checksum': 46893, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router E :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32050, 'Acknowledgement Number': 20965, 'Data': 'What.\n', 'Checksum': 6425, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+
+Router E :
+{'Source ID': 1111, 'Destination ID': 1101, 'Sequence Number': 53583, 'Acknowledgement Number': -1, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 1, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 20}
+
+Router L :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29580, 'Acknowledgement Number': 90788, 'Data': 'Here.  On our street.\n', 'Checksum': 46893, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router E :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20965, 'Acknowledgement Number': 32056, 'Data': ' Whatâ€™s going on?\n', 'Checksum': 35547, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router B :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29580, 'Acknowledgement Number': 90788, 'Data': 'Here.  On our street.\n', 'Checksum': 46893, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router G :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20965, 'Acknowledgement Number': 32056, 'Data': ' Whatâ€™s going on?\n', 'Checksum': 35547, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router E :
+{'Source ID': 1101, 'Destination ID': 1111, 'Sequence Number': 91455, 'Acknowledgement Number': 53584, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 1, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router D :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20965, 'Acknowledgement Number': 32056, 'Data': ' Whatâ€™s going on?\n', 'Checksum': 35547, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+Router A :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29580, 'Acknowledgement Number': 90788, 'Data': 'Here.  On our street.\n', 'Checksum': 46893, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+
+Router F :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20965, 'Acknowledgement Number': 32056, 'Data': ' Whatâ€™s going on?\n', 'Checksum': 35547, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+Router A :
+{'Source ID': 1101, 'Destination ID': 1111, 'Sequence Number': 91455, 'Acknowledgement Number': 53584, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 1, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+
+Router A :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90788, 'Acknowledgement Number': 29602, 'Data': " Nor pipe of thine, good fellow--the Ladies of the Lake So be still kind and good to me--did e'er Cometas take.\n", 'Checksum': 42859, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32056, 'Acknowledgement Number': 20985, 'Data': ' Hear what?\n', 'Checksum': 20208, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+Router A :
+{'Source ID': 1111, 'Destination ID': 1101, 'Sequence Number': 53584, 'Acknowledgement Number': 91456, 'Data': ' Hi! lambs! avoid yon fountain. Have ye not eyes to see Cometas, him who filched a pipe but two days back from me?\n', 'Checksum': 16155, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+
+Router B :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90788, 'Acknowledgement Number': 29602, 'Data': " Nor pipe of thine, good fellow--the Ladies of the Lake So be still kind and good to me--did e'er Cometas take.\n", 'Checksum': 42859, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+Router D :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32056, 'Acknowledgement Number': 20985, 'Data': ' Hear what?\n', 'Checksum': 20208, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+Router E :
+{'Source ID': 1111, 'Destination ID': 1101, 'Sequence Number': 53584, 'Acknowledgement Number': 91456, 'Data': ' Hi! lambs! avoid yon fountain. Have ye not eyes to see Cometas, him who filched a pipe but two days back from me?\n', 'Checksum': 16155, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+
+
+Router L :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90788, 'Acknowledgement Number': 29602, 'Data': " Nor pipe of thine, good fellow--the Ladies of the Lake So be still kind and good to me--did e'er Cometas take.\n", 'Checksum': 42859, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90788, 'Acknowledgement Number': 29602, 'Data': " Nor pipe of thine, good fellow--the Ladies of the Lake So be still kind and good to me--did e'er Cometas take.\n", 'Checksum': 42859, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+Router G :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32056, 'Acknowledgement Number': 20985, 'Data': ' Hear what?\n', 'Checksum': 20208, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+
+Router E :
+{'Source ID': 1101, 'Destination ID': 1111, 'Sequence Number': 91456, 'Acknowledgement Number': 53699, 'Data': 'Ann!\n', 'Checksum': 28742, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+Router E :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32056, 'Acknowledgement Number': 20985, 'Data': ' Hear what?\n', 'Checksum': 20208, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29602, 'Acknowledgement Number': 90900, 'Data': 'An hour at least.\n', 'Checksum': 54067, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+
+Router A :
+{'Source ID': 1101, 'Destination ID': 1111, 'Sequence Number': 91456, 'Acknowledgement Number': 53699, 'Data': 'Ann!\n', 'Checksum': 28742, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router L :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29602, 'Acknowledgement Number': 90900, 'Data': 'An hour at least.\n', 'Checksum': 54067, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router E :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20985, 'Acknowledgement Number': 32068, 'Data': ' Who?\n', 'Checksum': 12088, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router A :
+{'Source ID': 1111, 'Destination ID': 1101, 'Sequence Number': 53699, 'Acknowledgement Number': 91461, 'Data': " 'Twas Lycon's gift, your highness. But pray, Cometas, say, What is that skin wherewith thou saidst that Lacon walked away? Why, thy lord's self had ne'er a skin whereon his limbs to lay.\n", 'Checksum': 42608, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router B :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29602, 'Acknowledgement Number': 90900, 'Data': 'An hour at least.\n', 'Checksum': 54067, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+Router G :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20985, 'Acknowledgement Number': 32068, 'Data': ' Who?\n', 'Checksum': 12088, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router E :
+{'Source ID': 1111, 'Destination ID': 1101, 'Sequence Number': 53699, 'Acknowledgement Number': 91461, 'Data': " 'Twas Lycon's gift, your highness. But pray, Cometas, say, What is that skin wherewith thou saidst that Lacon walked away? Why, thy lord's self had ne'er a skin whereon his limbs to lay.\n", 'Checksum': 42608, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+
+Router D :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20985, 'Acknowledgement Number': 32068, 'Data': ' Who?\n', 'Checksum': 12088, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router E :
+{'Source ID': 1101, 'Destination ID': 1111, 'Sequence Number': 91461, 'Acknowledgement Number': 53887, 'Data': 'Shhh!\n', 'Checksum': 9507, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20985, 'Acknowledgement Number': 32068, 'Data': ' Who?\n', 'Checksum': 12088, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+Router A :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29602, 'Acknowledgement Number': 90900, 'Data': 'An hour at least.\n', 'Checksum': 54067, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+
+Router A :
+{'Source ID': 1101, 'Destination ID': 1111, 'Sequence Number': 91461, 'Acknowledgement Number': 53887, 'Data': 'Shhh!\n', 'Checksum': 9507, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32068, 'Acknowledgement Number': 20991, 'Data': ' Where?\n', 'Checksum': 54213, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+Router A :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90900, 'Acknowledgement Number': 29620, 'Data': " 'The hog he braved Athene.' As for the kid, 'tis there You stake a lamb against him--that fat one--if you dare.\n", 'Checksum': 49025, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+
+Router A :
+{'Source ID': 1111, 'Destination ID': 1101, 'Sequence Number': 53887, 'Acknowledgement Number': 91467, 'Data': " Did Lacon, did Calaethis' son purloin a goatskin? No, By Pan that haunts the sea-beach! Lad, if I served thee so, Crazed may I drop from yon hill-top to Crathis' stream below!\n", 'Checksum': 30996, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router D :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32068, 'Acknowledgement Number': 20991, 'Data': ' Where?\n', 'Checksum': 54213, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router B :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90900, 'Acknowledgement Number': 29620, 'Data': " 'The hog he braved Athene.' As for the kid, 'tis there You stake a lamb against him--that fat one--if you dare.\n", 'Checksum': 49025, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+Router E :
+{'Source ID': 1111, 'Destination ID': 1101, 'Sequence Number': 53887, 'Acknowledgement Number': 91467, 'Data': " Did Lacon, did Calaethis' son purloin a goatskin? No, By Pan that haunts the sea-beach! Lad, if I served thee so, Crazed may I drop from yon hill-top to Crathis' stream below!\n", 'Checksum': 30996, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+
+Router G :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32068, 'Acknowledgement Number': 20991, 'Data': ' Where?\n', 'Checksum': 54213, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router E :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32068, 'Acknowledgement Number': 20991, 'Data': ' Where?\n', 'Checksum': 54213, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router L :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90900, 'Acknowledgement Number': 29620, 'Data': " 'The hog he braved Athene.' As for the kid, 'tis there You stake a lamb against him--that fat one--if you dare.\n", 'Checksum': 49025, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router E :
+{'Source ID': 1101, 'Destination ID': 1111, 'Sequence Number': 91467, 'Acknowledgement Number': 54064, 'Data': 'Heâ€™s back.\n', 'Checksum': 26011, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 90900, 'Acknowledgement Number': 29620, 'Data': " 'The hog he braved Athene.' As for the kid, 'tis there You stake a lamb against him--that fat one--if you dare.\n", 'Checksum': 49025, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router A :
+{'Source ID': 1101, 'Destination ID': 1111, 'Sequence Number': 91467, 'Acknowledgement Number': 54064, 'Data': 'Heâ€™s back.\n', 'Checksum': 26011, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router E :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20991, 'Acknowledgement Number': 32076, 'Data': ' Silas?\n', 'Checksum': 49877, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29620, 'Acknowledgement Number': 91013, 'Data': 'Heâ€™s gone.  He knew youâ€™d try to stop him, so he left as soon as it started.  I saw him go.\n', 'Checksum': 61213, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router A :
+{'Source ID': 1111, 'Destination ID': 1101, 'Sequence Number': 54064, 'Acknowledgement Number': 91480, 'Data': " Be Daphnis' woes my portion, should that my credence win! Still, if thou list to stake a kid--that surely were no sin-- Come on, I'll sing it out with thee--until thou givest in.\n", 'Checksum': 16170, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router G :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20991, 'Acknowledgement Number': 32076, 'Data': ' Silas?\n', 'Checksum': 49877, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router D :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20991, 'Acknowledgement Number': 32076, 'Data': ' Silas?\n', 'Checksum': 49877, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router E :
+{'Source ID': 1111, 'Destination ID': 1101, 'Sequence Number': 54064, 'Acknowledgement Number': 91480, 'Data': " Be Daphnis' woes my portion, should that my credence win! Still, if thou list to stake a kid--that surely were no sin-- Come on, I'll sing it out with thee--until thou givest in.\n", 'Checksum': 16170, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router L :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29620, 'Acknowledgement Number': 91013, 'Data': 'Heâ€™s gone.  He knew youâ€™d try to stop him, so he left as soon as it started.  I saw him go.\n', 'Checksum': 61213, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20991, 'Acknowledgement Number': 32076, 'Data': ' Silas?\n', 'Checksum': 49877, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router E :
+{'Source ID': 1101, 'Destination ID': 1111, 'Sequence Number': 91480, 'Acknowledgement Number': 54244, 'Data': 'Silas.\n', 'Checksum': 1731, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router B :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29620, 'Acknowledgement Number': 91013, 'Data': 'Heâ€™s gone.  He knew youâ€™d try to stop him, so he left as soon as it started.  I saw him go.\n', 'Checksum': 61213, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router A :
+{'Source ID': 1101, 'Destination ID': 1111, 'Sequence Number': 91480, 'Acknowledgement Number': 54244, 'Data': 'Silas.\n', 'Checksum': 1731, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32076, 'Acknowledgement Number': 20999, 'Data': ' How long?\n', 'Checksum': 9839, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router A :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29620, 'Acknowledgement Number': 91013, 'Data': 'Heâ€™s gone.  He knew youâ€™d try to stop him, so he left as soon as it started.  I saw him go.\n', 'Checksum': 61213, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router A :
+{'Source ID': 1111, 'Destination ID': 1101, 'Sequence Number': 54244, 'Acknowledgement Number': 91487, 'Data': " Fox! were that fair for either? At shearing who'd prefer Horsehair to wool? or when the goat stood handy, suffer her To nurse her firstling, and himself go milk a blatant cur?\n", 'Checksum': 44916, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router D :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32076, 'Acknowledgement Number': 20999, 'Data': ' How long?\n', 'Checksum': 9839, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router E :
+{'Source ID': 1111, 'Destination ID': 1101, 'Sequence Number': 54244, 'Acknowledgement Number': 91487, 'Data': " Fox! were that fair for either? At shearing who'd prefer Horsehair to wool? or when the goat stood handy, suffer her To nurse her firstling, and himself go milk a blatant cur?\n", 'Checksum': 44916, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router A :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 91013, 'Acknowledgement Number': 29716, 'Data': " The same who deemed his hornet's-buzz the true cicala's note, And braved--like you--his better. And so forsooth you vote My kid a trifle? Then come on, fellow! I stake the goat.\n", 'Checksum': 39494, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+Router G :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32076, 'Acknowledgement Number': 20999, 'Data': ' How long?\n', 'Checksum': 9839, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+
+Router B :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 91013, 'Acknowledgement Number': 29716, 'Data': " The same who deemed his hornet's-buzz the true cicala's note, And braved--like you--his better. And so forsooth you vote My kid a trifle? Then come on, fellow! I stake the goat.\n", 'Checksum': 39494, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+Router E :
+{'Source ID': 1101, 'Destination ID': 1111, 'Sequence Number': 91487, 'Acknowledgement Number': 54421, 'Data': 'Yes.\n', 'Checksum': 27689, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+
+Router E :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32076, 'Acknowledgement Number': 20999, 'Data': ' How long?\n', 'Checksum': 9839, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router L :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 91013, 'Acknowledgement Number': 29716, 'Data': " The same who deemed his hornet's-buzz the true cicala's note, And braved--like you--his better. And so forsooth you vote My kid a trifle? Then come on, fellow! I stake the goat.\n", 'Checksum': 39494, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router A :
+{'Source ID': 1101, 'Destination ID': 1111, 'Sequence Number': 91487, 'Acknowledgement Number': 54421, 'Data': 'Yes.\n', 'Checksum': 27689, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 91013, 'Acknowledgement Number': 29716, 'Data': " The same who deemed his hornet's-buzz the true cicala's note, And braved--like you--his better. And so forsooth you vote My kid a trifle? Then come on, fellow! I stake the goat.\n", 'Checksum': 39494, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29716, 'Acknowledgement Number': 91192, 'Data': 'What could you have done?\n', 'Checksum': 6594, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+Router E :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20999, 'Acknowledgement Number': 32087, 'Data': ' Heâ€™s back?\n', 'Checksum': 39732, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+
+Router A :
+{'Source ID': 1111, 'Destination ID': 1101, 'Sequence Number': 54421, 'Acknowledgement Number': 91492, 'Data': " Why be so hot? Art thou on fire? First prythee take thy seat 'Neath this wild woodland olive thy tones will sound more sweet. Here falls a cold rill drop by drop, and green grass-blades uprear Their heads, and fallen leaves are thick, and locusts prattle here.\n", 'Checksum': 34289, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+Router L :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29716, 'Acknowledgement Number': 91192, 'Data': 'What could you have done?\n', 'Checksum': 6594, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+
+Router G :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20999, 'Acknowledgement Number': 32087, 'Data': ' Heâ€™s back?\n', 'Checksum': 39732, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router E :
+{'Source ID': 1111, 'Destination ID': 1101, 'Sequence Number': 54421, 'Acknowledgement Number': 91492, 'Data': " Why be so hot? Art thou on fire? First prythee take thy seat 'Neath this wild woodland olive thy tones will sound more sweet. Here falls a cold rill drop by drop, and green grass-blades uprear Their heads, and fallen leaves are thick, and locusts prattle here.\n", 'Checksum': 34289, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router D :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20999, 'Acknowledgement Number': 32087, 'Data': ' Heâ€™s back?\n', 'Checksum': 39732, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+Router B :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29716, 'Acknowledgement Number': 91192, 'Data': 'What could you have done?\n', 'Checksum': 6594, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+
+Router E :
+{'Source ID': 1101, 'Destination ID': 1111, 'Sequence Number': 91492, 'Acknowledgement Number': 54683, 'Data': 'Yes.\n', 'Checksum': 27689, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router A :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29716, 'Acknowledgement Number': 91192, 'Data': 'What could you have done?\n', 'Checksum': 6594, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+Router F :
+{'Source ID': 1101, 'Destination ID': 1100, 'Sequence Number': 20999, 'Acknowledgement Number': 32087, 'Data': ' Heâ€™s back?\n', 'Checksum': 39732, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+
+Router A :
+{'Source ID': 1101, 'Destination ID': 1111, 'Sequence Number': 91492, 'Acknowledgement Number': 54683, 'Data': 'Yes.\n', 'Checksum': 27689, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router A :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 20764, 'Acknowledgement Number': 29717, 'Data': 'Communication with Chan has been Compromised', 'Checksum': 63602, 'Urgent Pointer': 1, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router A :
+{'Source ID': 1111, 'Destination ID': 1101, 'Sequence Number': 91192, 'Acknowledgement Number': 29742, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 1, 'Ter Bit': 1, 'Header Length': 23}
+
+Router B :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 20764, 'Acknowledgement Number': 29717, 'Data': 'Communication with Chan has been Compromised', 'Checksum': 63602, 'Urgent Pointer': 1, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32087, 'Acknowledgement Number': 21013, 'Data': ' My brother?\n', 'Checksum': 1712, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+Router E :
+{'Source ID': 1111, 'Destination ID': 1101, 'Sequence Number': 91192, 'Acknowledgement Number': 29742, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 1, 'Ter Bit': 1, 'Header Length': 23}
+
+
+Router L :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 20764, 'Acknowledgement Number': 29717, 'Data': 'Communication with Chan has been Compromised', 'Checksum': 63602, 'Urgent Pointer': 1, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router D :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32087, 'Acknowledgement Number': 21013, 'Data': ' My brother?\n', 'Checksum': 1712, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 20764, 'Acknowledgement Number': 29717, 'Data': 'Communication with Chan has been Compromised', 'Checksum': 63602, 'Urgent Pointer': 1, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router G :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32087, 'Acknowledgement Number': 21013, 'Data': ' My brother?\n', 'Checksum': 1712, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29717, 'Acknowledgement Number': 20808, 'Data': 'Location of target: (32° 43 22.77 N,97° 9 7.53 W)\nRequest for a mission execution?\n', 'Checksum': 46913, 'Urgent Pointer': 1, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router E :
+{'Source ID': 1100, 'Destination ID': 1101, 'Sequence Number': 32087, 'Acknowledgement Number': 21013, 'Data': ' My brother?\n', 'Checksum': 1712, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router L :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29717, 'Acknowledgement Number': 20808, 'Data': 'Location of target: (32° 43 22.77 N,97° 9 7.53 W)\nRequest for a mission execution?\n', 'Checksum': 46913, 'Urgent Pointer': 1, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router B :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29717, 'Acknowledgement Number': 20808, 'Data': 'Location of target: (32° 43 22.77 N,97° 9 7.53 W)\nRequest for a mission execution?\n', 'Checksum': 46913, 'Urgent Pointer': 1, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router A :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 29717, 'Acknowledgement Number': 20808, 'Data': 'Location of target: (32° 43 22.77 N,97° 9 7.53 W)\nRequest for a mission execution?\n', 'Checksum': 46913, 'Urgent Pointer': 1, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router A :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 20808, 'Acknowledgement Number': 29800, 'Data': 'PEPPER THE PEPPER\n', 'Checksum': 36521, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router B :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 20808, 'Acknowledgement Number': 29800, 'Data': 'PEPPER THE PEPPER\n', 'Checksum': 36521, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router L :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 20808, 'Acknowledgement Number': 29800, 'Data': 'PEPPER THE PEPPER\n', 'Checksum': 36521, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 20808, 'Acknowledgement Number': 29800, 'Data': 'PEPPER THE PEPPER\n', 'Checksum': 36521, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router H :
+{'Source ID': 1100, 'Destination ID': 8008, 'Sequence Number': 56729, 'Acknowledgement Number': -1, 'Data': 'Location of target: (32° 43 22.77 N,97° 9 7.53 W)\nThe authorization code for the Airforce Headquarters:\nPEPPER THE PEPPER\n', 'Checksum': 46773, 'Urgent Pointer': 1, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 20}
+
+Router F :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 56851, 'Acknowledgement Number': 18024, 'Data': 'The authorization code:\nCongratulations we have fried dry green leaves\n', 'Checksum': 35608, 'Urgent Pointer': 1, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Airforce to Jan -> Success!
+Router L :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 56851, 'Acknowledgement Number': 18024, 'Data': 'The authorization code:\nCongratulations we have fried dry green leaves\n', 'Checksum': 35608, 'Urgent Pointer': 1, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router B :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 56851, 'Acknowledgement Number': 18024, 'Data': 'The authorization code:\nCongratulations we have fried dry green leaves\n', 'Checksum': 35608, 'Urgent Pointer': 1, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router A :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 56851, 'Acknowledgement Number': 18024, 'Data': 'The authorization code:\nCongratulations we have fried dry green leaves\n', 'Checksum': 35608, 'Urgent Pointer': 1, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router Chan is offline.
+Router A :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 18024, 'Acknowledgement Number': 56922, 'Data': 'Meeting Location: 32.76 N, -97.07 W\n', 'Checksum': 22963, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router B :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 18024, 'Acknowledgement Number': 56922, 'Data': 'Meeting Location: 32.76 N, -97.07 W\n', 'Checksum': 22963, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router L :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 18024, 'Acknowledgement Number': 56922, 'Data': 'Meeting Location: 32.76 N, -97.07 W\n', 'Checksum': 22963, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 18024, 'Acknowledgement Number': 56922, 'Data': 'Meeting Location: 32.76 N, -97.07 W\n', 'Checksum': 22963, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 0, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 56922, 'Acknowledgement Number': 18060, 'Data': 'Request for a finish mission?\n', 'Checksum': 58164, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 1, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router L :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 56922, 'Acknowledgement Number': 18060, 'Data': 'Request for a finish mission?\n', 'Checksum': 58164, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 1, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router B :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 56922, 'Acknowledgement Number': 18060, 'Data': 'Request for a finish mission?\n', 'Checksum': 58164, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 1, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router A :
+{'Source ID': 1100, 'Destination ID': 1111, 'Sequence Number': 56922, 'Acknowledgement Number': 18060, 'Data': 'Request for a finish mission?\n', 'Checksum': 58164, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 1, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router A :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 18060, 'Acknowledgement Number': 56923, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 1, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router B :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 18060, 'Acknowledgement Number': 56923, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 1, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router L :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 18060, 'Acknowledgement Number': 56923, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 1, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+
+Router F :
+{'Source ID': 1111, 'Destination ID': 1100, 'Sequence Number': 18060, 'Acknowledgement Number': 56923, 'Data': '', 'Checksum': 65535, 'Urgent Pointer': 0, 'Syn Bit': 0, 'Fin Bit': 1, 'Rst Bit': 0, 'Ter Bit': 0, 'Header Length': 23}
+

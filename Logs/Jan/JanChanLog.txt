@@ -1,0 +1,66 @@
+2019-12-03 12:06:26
+Chan as a client attempted to connect. Sent packet with Syn Bit as 1, which is the second step of the threeway handshake.
+
+2019-12-03 12:06:26
+Received following line.
+What is it? What’s wrong?
+Acknowledgement sent along with below line.
+What.
+
+
+2019-12-03 12:06:27
+Received following line.
+ What’s going on?
+Acknowledgement sent along with below line.
+ Hear what?
+
+
+2019-12-03 12:06:28
+Received following line.
+ Who?
+Acknowledgement sent along with below line.
+ Where?
+
+
+2019-12-03 12:06:28
+Received following line.
+ Silas?
+Acknowledgement sent along with below line.
+ How long?
+
+
+2019-12-03 12:06:29
+Received following line.
+ He’s back?
+Acknowledgement sent along with below line.
+ My brother?
+
+
+2019-12-03 12:06:29
+Received following line.
+ Godammit.
+Acknowledgement sent along with below line.
+ Why didn’t you wake me?
+
+
+2019-12-03 12:06:30
+Received following line.
+ When was I ever anything but kind to him?
+Acknowledgement sent along with below line.
+ It’s really happening.  I can’t believe it.
+
+
+2019-12-03 12:06:31
+Received following line.
+ I won’t have him back. I told him so last haying, didn’t I?
+Acknowledgement sent along with below line.
+ Are you? I had a feeling it would happen.  A premonition.  It’s been too quiet.  There’s been nothing for days now.  The factories have been closed.  The roads have been almost empty.  Even the air feels cleaner.  I went outside tonight, there were no lights, no cars, nothing.  Not a single sound of the city, just … quiet.  If you closed your eyes you really would have thought you were somewhere far out in the country.  It had that smell, you know, whatever it is—that smell of spring nights—of fields and flowers and dew.  I heard a dog bark, and it rang out so clear.  It struck me, you never notice things in the city—there’s too much going on.  It made me laugh. Listen, a dog is barking now.
+
+
+2019-12-03 12:06:33
+Received following line.
+ If he left then, I said, that ended it.
+Acknowledgement sent along with below line.
+ It’s the sound of the future. [Silence.] I have to go too, you know.
+
+

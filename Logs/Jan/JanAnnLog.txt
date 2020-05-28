@@ -1,0 +1,165 @@
+2019-12-03 12:06:21
+Connection setup with Ann started. This is the first step of the threeway handshake.
+
+2019-12-03 12:06:21
+Connection with Ann as the server is successful. This is the third step of the threeway handshake. First, which is below line was sent.
+Did you hear?
+
+
+2019-12-03 12:06:22
+Received following line.
+ Goats, from a shepherd who stands here, from Lacon, keep away Sibyrtas owns him; and he stole my goatskin yesterday.
+Acknowledgement sent along with below line.
+You didn’t?
+
+
+2019-12-03 12:06:22
+Received following line.
+ Sibyrtas' bondsman own a pipe? whence gotst thou that, and how? Tootling through straws with Corydon mayhap's beneath thee now?
+Acknowledgement sent along with below line.
+Outside.  They’re building barricades.
+
+
+2019-12-03 12:06:23
+Received following line.
+ The skin that Crocylus gave me, a dark one streaked with white, The day he slew his she-goat. Why, thou wert ill with spite, Then, my false friend; and thou would'st end by beggaring me quite.
+Acknowledgement sent along with below line.
+Here.  On our street.
+
+
+2019-12-03 12:06:23
+Received following line.
+ Nor pipe of thine, good fellow--the Ladies of the Lake So be still kind and good to me--did e'er Cometas take.
+Acknowledgement sent along with below line.
+An hour at least.
+
+
+2019-12-03 12:06:24
+Received following line.
+ 'The hog he braved Athene.' As for the kid, 'tis there You stake a lamb against him--that fat one--if you dare.
+Acknowledgement sent along with below line.
+He’s gone.  He knew you’d try to stop him, so he left as soon as it started.  I saw him go.
+
+
+2019-12-03 12:06:24
+Received following line.
+ The same who deemed his hornet's-buzz the true cicala's note, And braved--like you--his better. And so forsooth you vote My kid a trifle? Then come on, fellow! I stake the goat.
+Acknowledgement sent along with below line.
+What could you have done?
+
+
+2019-12-03 12:06:25
+Received following line.
+ Hot I am not; but hurt I am, and sorely, when I think That thou canst look me in the face and never bleach nor blink-- Me, thine own boyhood's tutor! Go, train the she-wolf's brood Train dogs--that they may rend thee! This, this is gratitude!
+Acknowledgement sent along with below line.
+Are you afraid?
+
+
+2019-12-03 12:06:25
+Received following line.
+ When? When I beat thee, wailing sore yon goats looked on with glee, And bleated; and were dealt with e'en as I had dealt with thee.
+Acknowledgement sent along with below line.
+There they are again!  On the corner! [They stare out into the darkness, holding each other.  The blows of an axe join in the clamor.] It sounds so cheerful, so resonant, like in a forest or a river when you’re mending a boat or building a dam.  Cheerful, harmonious work.
+
+
+2019-12-03 12:06:25
+Received following line.
+ Nay, here are oaks and galingale the hum of housing bees Makes the place pleasant, and the birds are piping in the trees. And here are two cold streamlets; here deeper shadows fall Than yon place owns, and look what cones drop from the pinetree tall.
+Acknowledgement sent along with below line.
+I knew you would.
+
+
+2019-12-03 12:06:26
+Received following line.
+ Come hither, and trample dainty fern and poppy-blossom sleep On goatskins that are softer than thy fleeces piled three deep. Here will I plant eight milkpails, great Pan's regard to gain, Bound them eight cups full honeycombs shall every cup contain.
+Acknowledgement sent along with below line.
+Of course.
+
+
+2019-12-03 12:06:26
+Received following line.
+ Nay, I want no Lycopas. But hail yon woodsman, do 'Tis Morson--see! his arms are full of bracken--there, by you.
+Acknowledgement sent along with below line.
+And the children?
+
+
+2019-12-03 12:06:27
+Received following line.
+ Ay, you hail him.
+Acknowledgement sent along with below line.
+And I?  Can I?
+
+
+2019-12-03 12:06:27
+Received following line.
+ Nay, by the Nymphs, sweet Morson, ne'er for Cometas' sake Stretch thou a point; nor e'er let him undue advantage take. Sibyrtas owns yon wethers; a Thurian is he And here, my friend, Eumares' goats, of Sybaris, you may see.
+Acknowledgement sent along with below line.
+Something like this happens once in what—a hundred years?  A thousand?  Do you really expect me to stay here and change diapers?
+
+
+2019-12-03 12:06:28
+Received following line.
+ The simple truth, most worshipful, is all that I allege I'm not for boasting. But thy wit hath all too keen an edge.
+Acknowledgement sent along with below line.
+I’m not afraid.
+
+
+2019-12-03 12:06:29
+Received following line.
+ [Sings] Daphnis the mighty minstrel was less precious to the Nine Than I. I offered yesterday two kids upon their shrine.
+Acknowledgement sent along with below line.
+This is bigger than the children.
+
+
+2019-12-03 12:06:29
+Received following line.
+ Twin kids hath every goat I milk, save two. My maid, my own, Eyes me and asks 'At milking time, rogue, art thou all alone?'
+Acknowledgement sent along with below line.
+What if they do die?  If it’s for the cause?
+
+
+2019-12-03 12:06:30
+Received following line.
+ Clarissa pelts her goatherd with apples, should he stray By with his goats; and pouts her lip in a quaint charming way.
+Acknowledgement sent along with below line.
+That was before.
+
+
+2019-12-03 12:06:31
+Received following line.
+ Tho' dogrose and anemone are fair in their degree, The rose that blooms by garden-walls still is the rose for me.
+Acknowledgement sent along with below line.
+The same thing that’s come over you.  I can see the future.
+
+
+2019-12-03 12:06:32
+Received following line.
+ A cushat I will presently procure and give to her Who loves me I know where it sits; up in the juniper.
+Acknowledgement sent along with below line.
+Yes! Don’t be angry.  Please. But tonight … when the sounds began … when the hammers and the axes began to fall … you were still asleep … and I suddenly understood that my husband, my children—all these things are temporary.... I love you very much … [She clasps his hand again.] … but can’t you hear how they are hammering out there?!  They are pounding away, and something seems to be falling, breaking apart, some kind of wall seems to be coming down—the earth is changing—and it is so spacious and wide and free!  It’s night now, but it seems to me the sun is shining!  I’m thirty years old and already I’m like an old woman, I know it, you can see it in my face.  And yet … tonight I feel like I’m only seventeen, and that I’ve fallen in love for the first time—a great, boundless love that lights up the sky!
+
+
+2019-12-03 12:06:33
+Received following line.
+Communication with Chan has been CompromisedAcknowledgement sent along with below line.
+Location of target: (32� 43 22.77 N,97� 9 7.53 W)
+Request for a mission execution?
+
+
+2019-12-03 12:06:34
+Received following line.
+Success!Acknowledgement sent along with below line.
+The authorization code:
+Congratulations we have fried dry green leaves
+
+
+2019-12-03 12:06:34
+Received following line.
+Meeting Location: 32.76 N, -97.07 W
+Acknowledgement sent along with below line. This is the first step of the connection teardown.
+Request for a finish mission?
+
+
+2019-12-03 12:06:35
+Acknowledgement recieved, Communication with Ann is Finished.This is the third step for the communication teardown.
+

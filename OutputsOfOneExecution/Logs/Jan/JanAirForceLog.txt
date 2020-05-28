@@ -1,0 +1,9 @@
+2019-12-02 22:16:29
+Received following line.
+PEPPER THE PEPPER
+Acknowledgement sent along with below line.
+Location of target: (32° 43 22.77 N,97° 9 7.53 W)
+The authorization code for the Airforce Headquarters:
+PEPPER THE PEPPER
+
+

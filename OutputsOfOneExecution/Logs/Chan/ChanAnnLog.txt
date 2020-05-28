@@ -1,0 +1,45 @@
+2019-12-02 22:16:18
+Ann as a client attempted to connect. Sent packet with Syn Bit as 1, which is the second step of the threeway handshake.
+
+2019-12-02 22:16:19
+Received following line.
+ Hi! lambs! avoid yon fountain. Have ye not eyes to see Cometas, him who filched a pipe but two days back from me?
+Acknowledgement sent along with below line.
+Ann!
+
+
+2019-12-02 22:16:21
+Received following line.
+ 'Twas Lycon's gift, your highness. But pray, Cometas, say, What is that skin wherewith thou saidst that Lacon walked away? Why, thy lord's self had ne'er a skin whereon his limbs to lay.
+Acknowledgement sent along with below line.
+Shhh!
+
+
+2019-12-02 22:16:22
+Received following line.
+ Did Lacon, did Calaethis' son purloin a goatskin? No, By Pan that haunts the sea-beach! Lad, if I served thee so, Crazed may I drop from yon hill-top to Crathis' stream below!
+Acknowledgement sent along with below line.
+He’s back.
+
+
+2019-12-02 22:16:23
+Received following line.
+ Be Daphnis' woes my portion, should that my credence win! Still, if thou list to stake a kid--that surely were no sin-- Come on, I'll sing it out with thee--until thou givest in.
+Acknowledgement sent along with below line.
+Silas.
+
+
+2019-12-02 22:16:24
+Received following line.
+ Fox! were that fair for either? At shearing who'd prefer Horsehair to wool? or when the goat stood handy, suffer her To nurse her firstling, and himself go milk a blatant cur?
+Acknowledgement sent along with below line.
+Yes.
+
+
+2019-12-02 22:16:26
+Received following line.
+ Why be so hot? Art thou on fire? First prythee take thy seat 'Neath this wild woodland olive thy tones will sound more sweet. Here falls a cold rill drop by drop, and green grass-blades uprear Their heads, and fallen leaves are thick, and locusts prattle here.
+Acknowledgement sent along with below line.
+Yes.
+
+

@@ -1,0 +1,71 @@
+2019-12-03 12:06:26
+Connection setup with Jan started. This is the first step of the threeway handshake.
+
+2019-12-03 12:06:26
+Connection with Jan as the server is successful. This is the third step of the threeway handshake. First, which is below line was sent.
+What is it? What’s wrong?
+
+
+2019-12-03 12:06:27
+Received following line.
+What.
+Acknowledgement sent along with below line.
+ What’s going on?
+
+
+2019-12-03 12:06:27
+Received following line.
+ Hear what?
+Acknowledgement sent along with below line.
+ Who?
+
+
+2019-12-03 12:06:28
+Received following line.
+ Where?
+Acknowledgement sent along with below line.
+ Silas?
+
+
+2019-12-03 12:06:28
+Received following line.
+ How long?
+Acknowledgement sent along with below line.
+ He’s back?
+
+
+2019-12-03 12:06:29
+Received following line.
+ My brother?
+Acknowledgement sent along with below line.
+ Godammit.
+
+
+2019-12-03 12:06:30
+Received following line.
+ Why didn’t you wake me?
+Acknowledgement sent along with below line.
+ When was I ever anything but kind to him?
+
+
+2019-12-03 12:06:31
+Received following line.
+ It’s really happening.  I can’t believe it.
+Acknowledgement sent along with below line.
+ I won’t have him back. I told him so last haying, didn’t I?
+
+
+2019-12-03 12:06:32
+Received following line.
+ Are you? I had a feeling it would happen.  A premonition.  It’s been too quiet.  There’s been nothing for days now.  The factories have been closed.  The roads have been almost empty.  Even the air feels cleaner.  I went outside tonight, there were no lights, no cars, nothing.  Not a single sound of the city, just … quiet.  If you closed your eyes you really would have thought you were somewhere far out in the country.  It had that smell, you know, whatever it is—that smell of spring nights—of fields and flowers and dew.  I heard a dog bark, and it rang out so clear.  It struck me, you never notice things in the city—there’s too much going on.  It made me laugh. Listen, a dog is barking now.
+Acknowledgement sent along with below line.
+ If he left then, I said, that ended it.
+
+
+2019-12-03 12:06:33
+Received following line.
+ It’s the sound of the future. [Silence.] I have to go too, you know.
+Acknowledgement sent along with below line.
+ I can’t keep … I mean, what good is he? At his age—
+
+

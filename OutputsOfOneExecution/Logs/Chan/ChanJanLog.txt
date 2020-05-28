@@ -1,0 +1,36 @@
+2019-12-02 22:16:15
+Connection setup with Jan started. This is the first step of the threeway handshake.
+
+2019-12-02 22:16:16
+Connection with Jan as the server is successful. This is the third step of the threeway handshake. First, which is below line was sent.
+What is it? What’s wrong?
+
+
+2019-12-02 22:16:18
+Received following line.
+What.
+Acknowledgement sent along with below line.
+ What’s going on?
+
+
+2019-12-02 22:16:20
+Received following line.
+ Hear what?
+Acknowledgement sent along with below line.
+ Who?
+
+
+2019-12-02 22:16:22
+Received following line.
+ Where?
+Acknowledgement sent along with below line.
+ Silas?
+
+
+2019-12-02 22:16:25
+Received following line.
+ How long?
+Acknowledgement sent along with below line.
+ He’s back?
+
+

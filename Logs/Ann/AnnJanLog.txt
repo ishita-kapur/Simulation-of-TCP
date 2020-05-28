@@ -1,0 +1,158 @@
+2019-12-03 12:06:21
+Jan as a client attempted to connect. Sent packet with Syn Bit as 1, which is the second step of the threeway handshake.
+
+2019-12-03 12:06:22
+Received following line.
+Did you hear?
+Acknowledgement sent along with below line.
+ Goats, from a shepherd who stands here, from Lacon, keep away Sibyrtas owns him; and he stole my goatskin yesterday.
+
+
+2019-12-03 12:06:22
+Received following line.
+You didn’t?
+Acknowledgement sent along with below line.
+ Sibyrtas' bondsman own a pipe? whence gotst thou that, and how? Tootling through straws with Corydon mayhap's beneath thee now?
+
+
+2019-12-03 12:06:23
+Received following line.
+Outside.  They’re building barricades.
+Acknowledgement sent along with below line.
+ The skin that Crocylus gave me, a dark one streaked with white, The day he slew his she-goat. Why, thou wert ill with spite, Then, my false friend; and thou would'st end by beggaring me quite.
+
+
+2019-12-03 12:06:23
+Received following line.
+Here.  On our street.
+Acknowledgement sent along with below line.
+ Nor pipe of thine, good fellow--the Ladies of the Lake So be still kind and good to me--did e'er Cometas take.
+
+
+2019-12-03 12:06:23
+Received following line.
+An hour at least.
+Acknowledgement sent along with below line.
+ 'The hog he braved Athene.' As for the kid, 'tis there You stake a lamb against him--that fat one--if you dare.
+
+
+2019-12-03 12:06:24
+Received following line.
+He’s gone.  He knew you’d try to stop him, so he left as soon as it started.  I saw him go.
+Acknowledgement sent along with below line.
+ The same who deemed his hornet's-buzz the true cicala's note, And braved--like you--his better. And so forsooth you vote My kid a trifle? Then come on, fellow! I stake the goat.
+
+
+2019-12-03 12:06:24
+Received following line.
+What could you have done?
+Acknowledgement sent along with below line.
+ Hot I am not; but hurt I am, and sorely, when I think That thou canst look me in the face and never bleach nor blink-- Me, thine own boyhood's tutor! Go, train the she-wolf's brood Train dogs--that they may rend thee! This, this is gratitude!
+
+
+2019-12-03 12:06:25
+Received following line.
+Are you afraid?
+Acknowledgement sent along with below line.
+ When? When I beat thee, wailing sore yon goats looked on with glee, And bleated; and were dealt with e'en as I had dealt with thee.
+
+
+2019-12-03 12:06:25
+Received following line.
+There they are again!  On the corner! [They stare out into the darkness, holding each other.  The blows of an axe join in the clamor.] It sounds so cheerful, so resonant, like in a forest or a river when you’re mending a boat or building a dam.  Cheerful, harmonious work.
+Acknowledgement sent along with below line.
+ Nay, here are oaks and galingale the hum of housing bees Makes the place pleasant, and the birds are piping in the trees. And here are two cold streamlets; here deeper shadows fall Than yon place owns, and look what cones drop from the pinetree tall.
+
+
+2019-12-03 12:06:26
+Received following line.
+I knew you would.
+Acknowledgement sent along with below line.
+ Come hither, and trample dainty fern and poppy-blossom sleep On goatskins that are softer than thy fleeces piled three deep. Here will I plant eight milkpails, great Pan's regard to gain, Bound them eight cups full honeycombs shall every cup contain.
+
+
+2019-12-03 12:06:26
+Received following line.
+Of course.
+Acknowledgement sent along with below line.
+ Nay, I want no Lycopas. But hail yon woodsman, do 'Tis Morson--see! his arms are full of bracken--there, by you.
+
+
+2019-12-03 12:06:27
+Received following line.
+And the children?
+Acknowledgement sent along with below line.
+ Ay, you hail him.
+
+
+2019-12-03 12:06:27
+Received following line.
+And I?  Can I?
+Acknowledgement sent along with below line.
+ Nay, by the Nymphs, sweet Morson, ne'er for Cometas' sake Stretch thou a point; nor e'er let him undue advantage take. Sibyrtas owns yon wethers; a Thurian is he And here, my friend, Eumares' goats, of Sybaris, you may see.
+
+
+2019-12-03 12:06:28
+Received following line.
+Something like this happens once in what—a hundred years?  A thousand?  Do you really expect me to stay here and change diapers?
+Acknowledgement sent along with below line.
+ The simple truth, most worshipful, is all that I allege I'm not for boasting. But thy wit hath all too keen an edge.
+
+
+2019-12-03 12:06:28
+Received following line.
+I’m not afraid.
+Acknowledgement sent along with below line.
+ [Sings] Daphnis the mighty minstrel was less precious to the Nine Than I. I offered yesterday two kids upon their shrine.
+
+
+2019-12-03 12:06:29
+Received following line.
+This is bigger than the children.
+Acknowledgement sent along with below line.
+ Twin kids hath every goat I milk, save two. My maid, my own, Eyes me and asks 'At milking time, rogue, art thou all alone?'
+
+
+2019-12-03 12:06:30
+Received following line.
+What if they do die?  If it’s for the cause?
+Acknowledgement sent along with below line.
+ Clarissa pelts her goatherd with apples, should he stray By with his goats; and pouts her lip in a quaint charming way.
+
+
+2019-12-03 12:06:31
+Received following line.
+That was before.
+Acknowledgement sent along with below line.
+ Tho' dogrose and anemone are fair in their degree, The rose that blooms by garden-walls still is the rose for me.
+
+
+2019-12-03 12:06:32
+Received following line.
+The same thing that’s come over you.  I can see the future.
+Acknowledgement sent along with below line.
+ A cushat I will presently procure and give to her Who loves me I know where it sits; up in the juniper.
+
+
+2019-12-03 12:06:33
+Communication with Chan has been Terminated.
+
+2019-12-03 12:06:34
+Received following line.
+Location of target: (32� 43 22.77 N,97� 9 7.53 W)
+Request for a mission execution?
+Acknowledgement sent along with below line.
+PEPPER THE PEPPER
+
+
+2019-12-03 12:06:34
+Received following line.
+The authorization code:
+Congratulations we have fried dry green leaves
+Acknowledgement sent along with below line.
+Meeting Location: 32.76 N, -97.07 W
+
+
+2019-12-03 12:06:35
+Mission Complete, Communication with Jan is Finished. This is the second step of the connection teardown.
+
