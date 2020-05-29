@@ -1,15 +1,17 @@
-### Project Name: missionTCP
-Project Description: Simulate the working of TCP to understand the Transport Layer Protocol
+# Simulation of TCP
+### Author - Ishita Kapur, 1001753123
 
-## Ishita Kapur, 1001753123
-# CSE 5344, Fall 2019
 
-# Tools and Softwares Used for Implementation:
+## Description
+
+A project to bring up an ad-hoc three-host TCP network and also implemented end-to-end data transfer within the network.
+
+## Tools and Softwares Used for Implementation:
 	* Notepad++
 	* Python 3.7.3
 	* Command Prompt
 
-# Assumptions:
+## Assumptions:
 	* Path costs between the nodes(routers and agents) remain constant.
 	* Scripts are executed in the following order:
 			- mission_tcp.py
@@ -22,7 +24,7 @@ Project Description: Simulate the working of TCP to understand the Transport Lay
 	* Dirctory Structure of `Logs` should be present before executing the scripts. Folders `Ann`, `Jan` and `Chan` need to be created withing the `Logs` folder prior to project execution.
 		
 
-# Steps to Execute:
+## Steps to Execute:
 	1.	Start command prompt. Navigate to the folder containing the scripts.
 	2.	Repeat Step 1 three more times.
 	3.	If environment variables are not set for python, set path of python in all the four terminal windows.
